@@ -1,5 +1,3 @@
-
-
 export class CleanTennisGame {
     score: string = '';
     player1Name: string;
